@@ -1,3 +1,5 @@
 # Vim back files
 *.sw*
 
+# ignore commit message
+.gitcommit
